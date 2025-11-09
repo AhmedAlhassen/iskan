@@ -1,0 +1,11 @@
+{
+  "name": "@iskan/zeebe",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "dependencies": {
+    "@camunda8/sdk": "^8.7.33",
+    "tslib": "^2.3.0"
+  }
+}
